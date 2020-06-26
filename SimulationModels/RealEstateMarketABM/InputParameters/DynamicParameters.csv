@@ -1,0 +1,11 @@
+Macro-Parameters for Housing Market ABM,,,,,,,
+ParameterName, Value Type, min, max,Num.Regime,RegimeStart,RegimeEnd, Value
+Market Participation Rate,double,0,1,1,0,11,0.1
+marketprice_increase_rate,double,0,1,1,0,11,0
+marketprice_decrease_rate,double,0,1,1,0,11,0
+Market Participation Rate,double,0,1,1,0,11,0.5
+marketprice_increase_rate,double,0,1,1,0,11,0
+marketprice_decrease_rate,double,0,1,1,0,11,0
+Market Participation Rate,double,0,1,1,0,11,0.9
+marketprice_increase_rate,double,0,1,1,0,11,0
+marketprice_decrease_rate,double,0,1,1,0,11,0

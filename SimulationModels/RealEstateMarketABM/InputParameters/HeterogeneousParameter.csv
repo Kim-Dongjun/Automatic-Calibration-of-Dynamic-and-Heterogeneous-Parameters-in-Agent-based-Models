@@ -1,0 +1,4 @@
+Micro-Parameters for Housing Market ABM,,,,,,,,
+ClusterID,ParameterName,ParameterType,Min.,Max.,Num.Regime,RegimeStart,RegimeEnd,Value
+1,willingness_to_pay_type,double,0,1,1,0,35,0.7
+1,probability_of_sale,double,0,1,1,0,35,0.7

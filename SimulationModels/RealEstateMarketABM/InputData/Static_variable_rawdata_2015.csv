@@ -1,0 +1,19 @@
+variable name,variable value
+household number,10000
+simulation time,24
+mortgage loan maturity,120
+credit loan maturity,60
+capital house supply ratio,0.979
+noncapital house supply ratio,1.065
+market price increase rate,0.01
+market price decrease rate,0.01
+moving probability,0.7
+willingness to pay,0.7
+sale probability,0.6
+participation rate,0.005
+consumption rate1,0.8663
+consumption rate2,0.7695
+consumption rate3,0.7365
+consumption rate4,0.7066
+consumption rate5,0.6431
+priority threshold,0.1
