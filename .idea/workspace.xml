@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a57d21-a0f7-4401-8691-010ac44b32e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/DynamicParameterDistributionLearning.py" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/DynamicParameterDistributionLearning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/ObtainNextDynamicParameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/ObtainNextDynamicParameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OptimizerModels/Optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizerModels/Optimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Research\Automatic Calibration of Dynamic and Heterogeneous Parameters in Agent-based Models\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhaqaE9SDdPSOfCmQMiAWe9SmD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="183" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="183" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_hmm_sampling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="183" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/plot_hmm_sampling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.plot_hmm_sampling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a57d21-a0f7-4401-8691-010ac44b32e2" name="Default Changelist" comment="" />
+      <created>1583397471740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583397471740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2017" y="402" key="#main" timestamp="1593149418179">
+      <screen x="-2280" y="-174" width="1080" height="1880" />
+    </state>
+    <state x="-2017" y="402" key="#main/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@-2280.-174.1080.1880" timestamp="1593149418179" />
+    <state width="1179" height="690" key="GridCell.Tab.0.bottom" timestamp="1585211940235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1179" height="690" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-1200.-173.1200.1880" timestamp="1585111255591" />
+    <state width="1059" height="833" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-2280.-174.1080.1880" timestamp="1585108737123" />
+    <state width="1179" height="690" key="GridCell.Tab.0.bottom/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@0.0.1920.1160" timestamp="1585211940235" />
+    <state width="1179" height="690" key="GridCell.Tab.0.center" timestamp="1585211940235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1179" height="690" key="GridCell.Tab.0.center/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-1200.-173.1200.1880" timestamp="1585111255591" />
+    <state width="1059" height="833" key="GridCell.Tab.0.center/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-2280.-174.1080.1880" timestamp="1585108737123" />
+    <state width="1179" height="690" key="GridCell.Tab.0.center/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@0.0.1920.1160" timestamp="1585211940235" />
+    <state width="1179" height="690" key="GridCell.Tab.0.left" timestamp="1585211940234">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1179" height="690" key="GridCell.Tab.0.left/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-1200.-173.1200.1880" timestamp="1585111255591" />
+    <state width="1059" height="833" key="GridCell.Tab.0.left/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-2280.-174.1080.1880" timestamp="1585108737123" />
+    <state width="1179" height="690" key="GridCell.Tab.0.left/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@0.0.1920.1160" timestamp="1585211940234" />
+    <state width="1179" height="690" key="GridCell.Tab.0.right" timestamp="1585211940235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1179" height="690" key="GridCell.Tab.0.right/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-1200.-173.1200.1880" timestamp="1585111255591" />
+    <state width="1059" height="833" key="GridCell.Tab.0.right/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@-2280.-174.1080.1880" timestamp="1585108737123" />
+    <state width="1179" height="690" key="GridCell.Tab.0.right/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@0.0.1920.1160" timestamp="1585211940235" />
+    <state x="-2237" y="411" key="SettingsEditor" timestamp="1593149422631">
+      <screen x="-2280" y="-174" width="1080" height="1880" />
+    </state>
+    <state x="-2237" y="411" key="SettingsEditor/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@-2280.-174.1080.1880" timestamp="1593149422631" />
+    <state x="664" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1593173379895">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="664" y="387" key="com.intellij.ide.util.TipDialog/0.0.1920.1160/-1200.-173.1200.1880/-2280.-174.1080.1880@0.0.1920.1160" timestamp="1584683897811" />
+    <state x="664" y="387" key="com.intellij.ide.util.TipDialog/0.0.1920.1160/-2280.-174.1080.1880/-1200.-173.1200.1880@0.0.1920.1160" timestamp="1593173379895" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SimulationModels/WealthDistributionModel/SimulationEngine/CouplingGraph.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

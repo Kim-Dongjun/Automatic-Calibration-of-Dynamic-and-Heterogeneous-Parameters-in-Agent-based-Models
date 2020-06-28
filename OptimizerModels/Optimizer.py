@@ -15,7 +15,7 @@ class optimizer():
         print("optimizing parameters...")
         self.plts.plotTrajectory(itrCalibration, resultAverage, resultCov, self.validationObservation)
         self.plts.plotDynamicParameters(itrCalibration, dicParams)
-        dynParam = self.dynCal.iterateCalibration2(itrCalibration, dicParams['dynamicParameter'], resultAverage, resultCov)
+        dynParam = self.dynCal.iterateCalibration(itrCalibration, dicParams['dynamicParameter'], resultAverage, resultCov)
         hetParam = self.hetCal.iterateCalibration(itrCalibration, dicParams['heterogeneousParameter'], resultAverage)
         dicParams['dynamicParameter'] = dynParam
         dicParams['heterogeneousParameter'] = hetParam

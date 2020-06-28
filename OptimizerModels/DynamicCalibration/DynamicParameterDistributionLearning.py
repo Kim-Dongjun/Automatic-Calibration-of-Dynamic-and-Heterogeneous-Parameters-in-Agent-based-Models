@@ -42,7 +42,7 @@ class CalibrationLearningModel:
 
     def useHMM(self, numTimeStep, differences, trueResult, dir, l, itrCalibration, numberHMMClusters, numOutputDim):
         model = hmm.GaussianHMM(n_components=numberHMMClusters, covariance_type="full")
-        print(differences)
+        #print(differences)
         model.fit(differences)
         predictedRegime = model.predict(differences)
         return predictedRegime

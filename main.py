@@ -203,7 +203,7 @@ if __name__ == '__main__':
         simulation_name = 'WealthDistributionABM'
         outputDim = [0,1,2,3]
     elif simulation_name == 2:
-        numAgents = 1000
+        numAgents = 10000
         numTimeStep = 24
         simulation_name = 'RealEstateMarketABM'
         outputDim = [2,3,8,9]
