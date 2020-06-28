@@ -40,12 +40,8 @@ class DynamicCalibration():
                             weights[candidate][time] += np.log(
                                 norm.pdf(self.trueResult[time][ss], simResult[candidate][time][ss],
                                          simResultCov[candidate][time][ss][ss] + 0.01))
-                            #print("weights 1 : ", candidate, time, ss, self.trueResult[time][ss], simResult[candidate][time][ss], np.log(
-                            #    norm.pdf(self.trueResult[time][ss], simResult[candidate][time][ss],
-                            #             simResultCov[candidate][time][ss][ss] + 0.01)))
                         else:
                             weights[candidate][time] += np.log(norm.pdf(self.trueResult[time][ss], simResult[candidate][time][ss], simResultCov[candidate][time][ss][ss] + 0.01 * simResult[candidate][time][ss]))
-                            #print("weights 2 : ", candidate, time, ss, self.trueResult[time][ss], simResult[candidate][time][ss], np.log(norm.pdf(self.trueResult[time][ss], simResult[candidate][time][ss], simResultCov[candidate][time][ss][ss] + 0.01 * simResult[candidate][time][ss])))
             for m in range(numMergedRegimes):
                 for l in range(currentParameters.shape[0]):
                     alpha_, beta_ = self.mleBeta(currentParameters, weights, mergedRegimesSet, m, l)

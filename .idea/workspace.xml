@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0a57d21-a0f7-4401-8691-010ac44b32e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/DynamicParameterDistributionLearning.py" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/DynamicParameterDistributionLearning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/ObtainNextDynamicParameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizerModels/DynamicCalibration/ObtainNextDynamicParameter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimizerModels/Optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizerModels/Optimizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
